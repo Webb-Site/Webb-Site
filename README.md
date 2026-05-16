@@ -35,15 +35,19 @@ My work sits between data, software, and operations: understanding messy busines
 ## Featured projects
 
 ### 🚆 TrainBot
+
 Python-based rail chatbot exploring live journey information, service disruption logic, and delay prediction using transport data.
 
 ### 🧠 Cognitive Decline Detection
+
 Machine learning pipeline for cognitive decline detection using DementiaBank data, acoustic feature engineering, transcript embeddings, and model comparison across multiple classifiers.
 
 ### 📊 Build Complexity Analytics
+
 Decision-support analytics for exploring variant drivers, part-level trade-offs, and cost / weight / complexity decisions using structured reporting and validation logic.
 
 ### ⚙️ Change Management Platform
+
 Internal tooling and workflow automation designed to improve visibility, accountability, and process speed across operational teams, supporting ~150 daily users.
 
 ## Portfolio structure
@@ -61,6 +65,25 @@ It contains anonymised case studies covering:
 - Applied ML and transport-focused side projects
 
 Most professional examples are anonymised because they were delivered in enterprise/client environments. The focus is on the problem, approach, tools, scale, outcome, and what I learned.
+
+## If you're reviewing my profile
+
+For **analytics / BI roles**, start with:
+
+- Build Complexity Analytics
+- Self-Serve Engineering Reporting Model
+- Data Quality and Reconciliation Framework
+
+For **automation / internal tools roles**, start with:
+
+- Change Management Platform
+- Action Log App
+- Tech Review Minutes Automation
+
+For **side projects**, start with:
+
+- TrainBot
+- Cognitive Decline Detection
 
 ## Core stack
 
