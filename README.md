@@ -4,8 +4,8 @@
 
 ## What I do
 
-- **Now — OVO Energy, Data and AI Platform.** Backend for a self-service data-access workflow: a GraphQL integration, an event-driven listener with retry and backoff, and an idempotent scheduled sync that settles each request from its pull request. Python, GraphQL, GCP (Cloud Run), Kubernetes, Terraform.
-- **Before — Quick Release.** Maintained the company's internal Django, Celery and Postgres platform used by all ~400 staff, and built change-management tools for Ford used daily by ~150 engineers (cut a six-hour daily task to under one hour).
+- **Now: OVO Energy, Data and AI Platform.** Backend for a self-service data-access workflow: a GraphQL integration, an event-driven listener with retry and backoff, and an idempotent scheduled sync that settles each request from its pull request. Python, GraphQL, GCP (Cloud Run), Kubernetes, Terraform.
+- **Before: Quick Release.** Maintained the company's internal Django, Celery and Postgres platform used by all ~400 staff, and built change-management tools for Ford used daily by ~150 engineers (cut a six-hour daily task to under one hour).
 
 ## How I like to build
 
